@@ -5,7 +5,7 @@
             "access_key": "",
             "secret_key": "",
             "region": "us-west-1",
-            "source_ami": "ami-89f3dee9",
+            "source_ami": "ami-0f81fc935e2c05b47",
             "instance_type": "t2.medium",
 	        "ami_name": "ubuntu-1404-circle-vm-image-{{timestamp}}",
             "ssh_username": "circleci",
